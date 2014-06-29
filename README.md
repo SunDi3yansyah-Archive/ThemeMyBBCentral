@@ -1,6 +1,5 @@
 <h1>Theme MyBB Community Forums</h1>
 =====
-<br>
 <h2>Indonesia</h2>
 <br>
 Ini adalah bagian dari theme MyBB pusat yang bisa anda unduh secara gratis dan bisa di gunakan di dalam forum anda. <br>
@@ -16,5 +15,4 @@ You only need a default image on MyYBB the first time the installation is in: `m
 
 Please enjoy
 <hr>
-<br>
-<h3>Credit: SunDi3yansyah</h3>
+<strong>Credit: SunDi3yansyah</strong>
